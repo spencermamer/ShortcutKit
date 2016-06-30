@@ -9,10 +9,10 @@
 #import <UIKit/UIKit.h>
 
 //! Project version number for ShortcutKit iOS.
-FOUNDATION_EXPORT double ShortcutKit_iOSVersionNumber;
+FOUNDATION_EXPORT double ShortcutKitVersionNumber;
 
 //! Project version string for ShortcutKit iOS.
-FOUNDATION_EXPORT const unsigned char ShortcutKit_iOSVersionString[];
+FOUNDATION_EXPORT const unsigned char ShortcutKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <ShortcutKit_iOS/PublicHeader.h>
 

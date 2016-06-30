@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		70CA58691D24CCF10001FB38 /* ShortcutKit iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 70CA58681D24CCF10001FB38 /* ShortcutKit iOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		70CA58691D24CCF10001FB38 /* ShortcutKitiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		70CA58651D24CCF10001FB38 /* ShortcutKitiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ShortcutKitiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		70CA58681D24CCF10001FB38 /* ShortcutKit iOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ShortcutKit iOS.h"; sourceTree = "<group>"; };
+		70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShortcutKitiOS.h; sourceTree = "<group>"; };
 		70CA586F1D24CE630001FB38 /* Info-iOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-iOS.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -47,7 +47,7 @@
 		70CA58671D24CCF10001FB38 /* ShortcutKit iOS */ = {
 			isa = PBXGroup;
 			children = (
-				70CA58681D24CCF10001FB38 /* ShortcutKit iOS.h */,
+				70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */,
 			);
 			path = "ShortcutKit iOS";
 			sourceTree = "<group>";
@@ -67,7 +67,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70CA58691D24CCF10001FB38 /* ShortcutKit iOS.h in Headers */,
+				70CA58691D24CCF10001FB38 /* ShortcutKitiOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
