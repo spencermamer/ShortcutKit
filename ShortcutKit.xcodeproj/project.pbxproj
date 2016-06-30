@@ -47,7 +47,6 @@
 		70CA58671D24CCF10001FB38 /* ShortcutKit iOS */ = {
 			isa = PBXGroup;
 			children = (
-				70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */,
 			);
 			path = "ShortcutKit iOS";
 			sourceTree = "<group>";
@@ -55,6 +54,7 @@
 		70CA586E1D24CD650001FB38 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */,
 				70CA586F1D24CE630001FB38 /* Info-iOS.plist */,
 			);
 			path = Sources;
