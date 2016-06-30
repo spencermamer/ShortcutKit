@@ -36,6 +36,7 @@
 		70CA58591D24CCAD0001FB38 = {
 			isa = PBXGroup;
 			children = (
+				70CA58741D24D20E0001FB38 /* ShortcutKit.podspec */,
 				70CA58731D24D1E40001FB38 /* Metadata */,
 				70CA586E1D24CD650001FB38 /* Sources */,
 				70CA58661D24CCF10001FB38 /* Products */,
@@ -65,7 +66,6 @@
 			children = (
 				70CA58761D24D20E0001FB38 /* LICENSE */,
 				70CA58751D24D20E0001FB38 /* README.md */,
-				70CA58741D24D20E0001FB38 /* ShortcutKit.podspec */,
 			);
 			path = Metadata;
 			sourceTree = "<group>";
