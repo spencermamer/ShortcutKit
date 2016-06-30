@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		70CA58691D24CCF10001FB38 /* ShortcutKitiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		70CA58721D24D0CF0001FB38 /* MyTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70CA58711D24D0CF0001FB38 /* MyTest.swift */; };
+		70CA587A1D24D3580001FB38 /* ShortcutKit.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 70CA58741D24D20E0001FB38 /* ShortcutKit.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,9 +53,9 @@
 		70CA586E1D24CD650001FB38 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */,
 				70CA586F1D24CE630001FB38 /* Info-iOS.plist */,
 				70CA58711D24D0CF0001FB38 /* MyTest.swift */,
+				70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -62,9 +63,9 @@
 		70CA58731D24D1E40001FB38 /* Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				70CA58741D24D20E0001FB38 /* ShortcutKit.podspec */,
-				70CA58751D24D20E0001FB38 /* README.md */,
 				70CA58761D24D20E0001FB38 /* LICENSE */,
+				70CA58751D24D20E0001FB38 /* README.md */,
+				70CA58741D24D20E0001FB38 /* ShortcutKit.podspec */,
 			);
 			path = Metadata;
 			sourceTree = "<group>";
@@ -140,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70CA587A1D24D3580001FB38 /* ShortcutKit.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +315,7 @@
 				70CA586D1D24CCF10001FB38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
