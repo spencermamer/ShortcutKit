@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		70CA58691D24CCF10001FB38 /* ShortcutKitiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 70CA58681D24CCF10001FB38 /* ShortcutKitiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		70CA58721D24D0CF0001FB38 /* MyTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70CA58711D24D0CF0001FB38 /* MyTest.swift */; };
-		70CA587A1D24D3580001FB38 /* ShortcutKit.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 70CA58741D24D20E0001FB38 /* ShortcutKit.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -133,7 +132,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70CA587A1D24D3580001FB38 /* ShortcutKit.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
